@@ -1,6 +1,6 @@
-##Spring Boot Book Store
+## Spring Boot Book Store
 
-###Endpoints
+### Endpoints
 
 #### Sign-up
 ```
